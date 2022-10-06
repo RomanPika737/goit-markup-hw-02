@@ -238,6 +238,11 @@ background: #F5F4FA;
     
         color: rgba(255, 255, 255, 0.6);
 }
+.links .link:hover,
+.links .link:focus {
+    color: #2196F3;
+}
+
 .map {
     font-family: 'Roboto';
         font-style: normal;
@@ -251,6 +256,12 @@ background: #F5F4FA;
     
         color: #FFFFFF;
 }
+
+.map:hover,
+.map:focus {
+    color: #2196F3;
+}
+
 .text-logo1 {
         color: #FFFFFF;
 }
