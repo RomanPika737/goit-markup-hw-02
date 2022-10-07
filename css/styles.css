@@ -2,8 +2,11 @@
 body {
     font-family: 'Roboto', 'Raleway', sans-serif;
     font-size: 14px;
-    background: #FFFFFF;
+    background: #F5F5F5;;
     color:#212121
+}
+.list {
+    list-style: none;
 }
 /* Header */
 .page-header {
