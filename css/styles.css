@@ -113,6 +113,9 @@ font-family: 'Roboto';
             cursor: pointer;
 
  }
+ .button:hover, .button:focus {
+    background-color: #188CE8;;
+ }
 
  /* Features */
 
